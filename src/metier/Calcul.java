@@ -1,5 +1,5 @@
-package Metier;
+package metier;
 
 public class Calcul {
-
+ 
 }
